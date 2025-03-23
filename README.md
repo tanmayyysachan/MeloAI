@@ -175,4 +175,4 @@ Warning ⚠
 This APIs and Model are hosted on a free platform, so there may be occasional downtime or slow responses. If you experience issues, please try again later.
 
 ## 📞 *Contact*
-For any questions, feel free to reach out at *utkarshgsuv@gmail.com*.
+For any questions, feel free to reach out at *tanmaysachan0005@gmail.com*.
