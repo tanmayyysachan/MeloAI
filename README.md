@@ -41,7 +41,7 @@ This project uses *FastAPI* to deploy a voice emotion detection model. The model
 ## 🚀 *Setup Instructions*
 
 ###1. *Clone the Repository*
-https://github.com/tanmayyysachan/MeloAI/main/Model_API
+https://github.com/tanmayyysachan/MeloAI/tree/main/Model_API
 
 ### 2. *Create a Virtual Environment*
 bash
