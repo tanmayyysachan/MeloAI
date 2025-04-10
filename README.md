@@ -16,7 +16,7 @@ https://drive.google.com/drive/folders/1wQ8tAipVWCv98bwTAIuMDelGI6KA2xz2?usp=sha
 ## Tech Stack
 
 - *Frontend*: Flutter
-- *Backend*: FastAPI (or any API service used)
+- *Backend*: FastAPI 
 - *Emotion Detection Model*: Colon (our very own ML model)
 
 ## Contributing
